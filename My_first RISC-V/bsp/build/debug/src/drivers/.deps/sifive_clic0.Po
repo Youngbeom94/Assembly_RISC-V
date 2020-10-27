@@ -1,0 +1,5 @@
+src/drivers/sifive_clic0.o: \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/src/drivers/sifive_clic0.c \
+ metal/machine/platform.h
+
+metal/machine/platform.h:

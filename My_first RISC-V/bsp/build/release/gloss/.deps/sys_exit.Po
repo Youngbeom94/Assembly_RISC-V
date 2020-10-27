@@ -1,0 +1,5 @@
+gloss/sys_exit.o: \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/gloss/sys_exit.c \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/shutdown.h
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/shutdown.h:

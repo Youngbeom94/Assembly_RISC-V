@@ -1,0 +1,38 @@
+src/drivers/sifive_buserror0.o: \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/src/drivers/sifive_buserror0.c \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_buserror0.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/compiler.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include\stdbool.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include\stdint.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\stdint.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\machine\_default_types.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\features.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\_newlib_version.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_intsup.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_stdint.h \
+ metal/machine/platform.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include\stddef.h
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_buserror0.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/compiler.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include\stdbool.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include\stdint.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\stdint.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\machine\_default_types.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\features.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\_newlib_version.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_intsup.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_stdint.h:
+
+metal/machine/platform.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include\stddef.h:

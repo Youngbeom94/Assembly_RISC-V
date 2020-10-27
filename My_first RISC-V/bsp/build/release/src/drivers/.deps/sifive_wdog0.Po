@@ -1,0 +1,149 @@
+src/drivers/sifive_wdog0.o: \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/src/drivers/sifive_wdog0.c \
+ metal/machine/platform.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_uart0.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/clock.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include\stddef.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/compiler.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/riscv_plic0.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/riscv_cpu.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/cpu.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/interrupt.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include\stdint.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\stdint.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\machine\_default_types.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\features.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\_newlib_version.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_intsup.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_stdint.h \
+ metal/machine.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_gpio0.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/gpio.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/io.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/uart.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/fixed-clock.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/memory.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/riscv_clint0.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/pmp.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_local-external-interrupts0.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_gpio-leds.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/led.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_pwm0.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/pwm.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_rtc0.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/rtc.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_spi0.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/spi.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_test0.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/shutdown.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_wdog0.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/watchdog.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_fe310-g000_hfrosc.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_fe310-g000_prci.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_fe310-g000_hfxosc.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_fe310-g000_lfrosc.h \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_fe310-g000_pll.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include-fixed\limits.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include-fixed\syslimits.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\limits.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\newlib-nano\newlib.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\cdefs.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\syslimits.h
+
+metal/machine/platform.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_uart0.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/clock.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include\stddef.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/compiler.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/riscv_plic0.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/riscv_cpu.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/cpu.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/interrupt.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include\stdint.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\stdint.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\machine\_default_types.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\features.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\_newlib_version.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_intsup.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_stdint.h:
+
+metal/machine.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_gpio0.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/gpio.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/io.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/uart.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/fixed-clock.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/memory.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/riscv_clint0.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/pmp.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_local-external-interrupts0.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_gpio-leds.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/led.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_pwm0.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/pwm.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_rtc0.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/rtc.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_spi0.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/spi.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_test0.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/shutdown.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_wdog0.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/watchdog.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_fe310-g000_hfrosc.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_fe310-g000_prci.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_fe310-g000_hfxosc.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_fe310-g000_lfrosc.h:
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/drivers/sifive_fe310-g000_pll.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include-fixed\limits.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include-fixed\syslimits.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\limits.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\newlib-nano\newlib.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\cdefs.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\syslimits.h:

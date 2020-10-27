@@ -1,0 +1,83 @@
+gloss/sys_chown.o: \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/gloss/sys_chown.c \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\errno.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\errno.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\reent.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\_ansi.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\newlib-nano\newlib.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\_newlib_version.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\config.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\machine\ieeefp.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\features.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include\stddef.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_types.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\machine\_types.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\machine\_default_types.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\lock.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\types.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\cdefs.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_stdint.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\machine\endian.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\machine\_endian.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\select.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_sigset.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_timeval.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\timespec.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_timespec.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_pthreadtypes.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\sched.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\machine\types.h
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\errno.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\errno.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\reent.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\_ansi.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\newlib-nano\newlib.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\_newlib_version.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\config.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\machine\ieeefp.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\features.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include\stddef.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_types.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\machine\_types.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\machine\_default_types.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\lock.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\types.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\cdefs.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_stdint.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\machine\endian.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\machine\_endian.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\select.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_sigset.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_timeval.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\timespec.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_timespec.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_pthreadtypes.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\sched.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\machine\types.h:

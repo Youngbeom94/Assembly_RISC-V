@@ -1,0 +1,8 @@
+src/clock.o: \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/src/clock.c \
+ C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/clock.h \
+ c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include\stddef.h
+
+C:/FreedomStudio/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/clock.h:
+
+c:\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include\stddef.h:
