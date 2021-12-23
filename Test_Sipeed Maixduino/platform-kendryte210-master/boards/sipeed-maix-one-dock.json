@@ -1,0 +1,28 @@
+{
+    "build": {
+        "extra_flags": "-DBOARD_SIPEED_MAIX_ONE_DOCK",
+        "f_cpu": "400000000L",
+        "mcu": "K210",
+        "hwids": [
+            "0x1A86",
+            "0x7523"
+        ],
+        "variant": "sipeed_maix_one_dock",
+        "board_def": "BOARD_SIPEED_MAIX_ONE_DOCK"
+    },
+    "frameworks": [
+        "kendryte-standalone-sdk",
+        "kendryte-freertos-sdk",
+        "arduino"
+    ],
+    "name": "Sipeed MAIX ONE DOCK",
+    "upload": {
+        "maximum_ram_size": 6291456,
+        "maximum_size": 16777216,
+        "burn_tool": "dan",
+        "require_upload_port": true,
+        "speed": 2000000
+    },
+    "url": "https://www.sipeed.com/",
+    "vendor": "Sipeed"
+}
